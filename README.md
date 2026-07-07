@@ -17,6 +17,7 @@
 
 > [!IMPORTANT]
 > Versions of Helix from anywhere other than This GitHub are not official and may be malicious.
+
 > [!ALSO IMPORTANT]
 > Because of a risk of exploit finders, we are not releasing the source code to the public.
 
