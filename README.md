@@ -41,9 +41,8 @@
 
 ## Requirements
 
-- **Minecraft** 1.20 – 26.2
-- **Fabric Loader** 0.16.0+ (0.18.5+ for MC 26.1.x)
-- **Fabric API** (matching your Minecraft version)
+- Latest **Helix Client** from **[Github Releases](https://github.com/Spinner-Inc/Helix/releases)**
+- Server with latest **Helix Plugin** from **[Github Releases](https://github.com/Spinner-Inc/Helix/releases)**
 
 ### Installation
 
