@@ -1,2 +1,3 @@
-# Helix
-The public repo for Helix Client
+# 😵‍💫 Helix Client
+
+**Helix Client** is a Minecraft Client focused on improving the server modding experience.
