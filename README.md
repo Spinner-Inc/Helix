@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Helix-Client" alt="opsectransparent" width="15%"/>
+<img src="https://img.shields.io/badge/Helix-Client-green" alt="opsectransparent" width="15%"/>
 </p>
 <h1 align="center">Helix</h1>
 
@@ -11,8 +11,8 @@
 <a href="https://modrinth.com/mod/opsec/versions"><img alt="Supported Minecraft Versions" src="https://img.shields.io/badge/Available%20for-1.20%20%E2%80%93%2026.2-00AF5C"></a>
 <a href="https://www.curseforge.com/minecraft/mc-mods/opsec"><img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/1519411?logo=curseforge&logoColor=white&label=Curseforge&color=F16436"></a>
 <a href="https://www.curseforge.com/minecraft/mc-mods/opsec"><img alt="Supported Minecraft Versions" src="https://img.shields.io/badge/Available%20for-1.20%20%E2%80%93%2026.2-F16436"></a>
-<a href="https://github.com/aurickk/OpSec/releases"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/aurickk/OpSec/total?logo=github&logoColor=white&label=GitHub&color=6e5494"></a>
-<a href="https://github.com/aurickk/OpSec/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/aurickk/OpSec?logo=github&logoColor=white&label=Release&color=6e5494"></a>
+<a href="https://github.com/Spinner-Inc/Helix/releases"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Spinner-Inc/Helix/total?logo=github&logoColor=white&label=GitHub&color=6e5494"></a>
+<a href="https://github.com/Spinner-Inc/Helix/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Spinner-Inc/Helix?logo=github&logoColor=white&label=Release&color=6e5494"></a>
 </p>
 
 > [!IMPORTANT]
