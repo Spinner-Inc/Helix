@@ -15,21 +15,14 @@
 <a href="https://github.com/aurickk/OpSec/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/aurickk/OpSec?logo=github&logoColor=white&label=Release&color=6e5494"></a>
 </p>
 
-
-> [!WARNING]
-> This is a passion project built and maintained with **AI**.
-
 > [!IMPORTANT]
-> Fake phishing sites and Discord servers has been distributing **trojanized** builds of OpSec. Only download OpSec from these official sources:
-> - **[Modrinth](https://modrinth.com/mod/opsec)**
-> - **[GitHub Releases](https://github.com/aurickk/OpSec/releases)**
-> - **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/opsec)** (updated less frequently)
->
-> Builds from anywhere else are not official and may be malicious.
+> Versions of Helix from anywhere other than This GitHub are not official and may be malicious.
+> [!ALSO IMPORTANT]
+> Because of a risk of exploit finders, we are not releasing the source code to the public.
 
-## What it does 
+## What does Helix do? 
 
-- **[Spoof as Vanilla](#spoof-as-vanilla)** - Set brand name to vanilla and block all mod detections
+- **Servers install mods onto client** - Servers can securely install mods from URLs.
 - **[Channel Spoofing](#channel-spoofing)** - Conditionally block mod network channels to prevent detection
 - **[Known-Pack Filtering](#known-pack-filtering)** - Conditionally strip built-in pack identifiers from the configuration handshake
 - **[Isolate Pack Cache](#isolate-pack-cache)** - Isolate resource packs per-account to prevent tracking
