@@ -7,10 +7,6 @@
 <p align="center">A Minecraft client and server plugin that provides easy modding for servers.</p>
 
 <p align="center">
-<a href="https://modrinth.com/mod/opsec"><img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/opsec?logo=modrinth&logoColor=white&label=Modrinth&color=00AF5C"></a>
-<a href="https://modrinth.com/mod/opsec/versions"><img alt="Supported Minecraft Versions" src="https://img.shields.io/badge/Available%20for-1.20%20%E2%80%93%2026.2-00AF5C"></a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/opsec"><img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/1519411?logo=curseforge&logoColor=white&label=Curseforge&color=F16436"></a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/opsec"><img alt="Supported Minecraft Versions" src="https://img.shields.io/badge/Available%20for-1.20%20%E2%80%93%2026.2-F16436"></a>
 <a href="https://github.com/Spinner-Inc/Helix/releases"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Spinner-Inc/Helix/total?logo=github&logoColor=white&label=GitHub&color=6e5494"></a>
 <a href="https://github.com/Spinner-Inc/Helix/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Spinner-Inc/Helix?logo=github&logoColor=white&label=Release&color=6e5494"></a>
 </p>
@@ -19,7 +15,9 @@
 > Versions of Helix from anywhere other than This GitHub are not official and may be malicious.
 
 > [!WARNING]
-> Because of a risk of exploit finders, we are not releasing the source code to the public.
+> This is the public download page for Helix Client And Helix Plugin.
+> If you wish to contribute, please contact us.
+> We DO NOT host source code publicly.
 
 ## What does Helix do? 
 
